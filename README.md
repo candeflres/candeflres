@@ -22,8 +22,6 @@ Software Programming Technician and Economics student specializing in Data Analy
 
 ## Featured Projects
 
-- [Certezza](https://certezza.com.ar/) — Digital Presence Agency
-
 - [Academic Performance Analytics](https://github.com/candeflres/rendimiento-academico) — Attendance and academic performance
 
 ## Tools I Reach For
