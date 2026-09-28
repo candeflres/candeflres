@@ -10,7 +10,7 @@
 
 ![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-ec4899?style=flat-square)
 
-Software Programming Technician and Economics student specializing in Data Analytics. Passionate about digital marketing and content creation, which led me to found my own marketing agency ! ಄
+Software Programming Technician and Economics student specializing in Data Analytics. Passionate about digital marketing and data analysis ! ಄
 
 > Building something interesting? Let's connect: https://www.linkedin.com/in/candela-flores
 
